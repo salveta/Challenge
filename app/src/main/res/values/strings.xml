@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Challenge App</string>
+    <string name="voucher_unvailable">The vouchers ar not available right now</string>
+    <string name="paypal">Paypal</string>
+    <string name="tarjet">Credit card</string>
+    <string name="total">Total:</string>
+    <string name="price">Price:</string>
+    <string name="units_offer">Units: %d %s</string>
+    <string name="units">Units: %d</string>
+    <string name="euro">%s € </string>
+    <string name="offer_voucher">(2x1) special offer</string>
+    <string name="offer_tshirt">(+3 Tshirt x 19€) special offer</string>
+    <string name="shopping_success">Your products have been purchased. Soon you will receive them!</string>
+    <string name="dialog_delete_shopping">Do you want to delete your shopping cart?</string>
+    <string name="ok_title">OK</string>
+    <string name="no_title">No</string>
+</resources>
